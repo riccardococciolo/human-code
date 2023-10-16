@@ -1,3 +1,3 @@
-###lista della spesa
+### Lista della spesa
 
 ![lista della spesa](img/Lista%20della%20spesa.jpg)
